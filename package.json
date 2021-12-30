@@ -1,6 +1,6 @@
 {
   "name": "nodejs-nga",
-  "version": "0.0.0",
+  "version": "12.18.4",
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
